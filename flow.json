@@ -1,1 +1,1 @@
-[]
+[{"id":"4b24743.d3b838c","type":"tab","label":"Flow 1","disabled":false,"info":""},{"id":"66cf837f.b0066c","type":"debug","z":"4b24743.d3b838c","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":500,"y":200,"wires":[]},{"id":"59b60bfe.981264","type":"wiotp in","z":"4b24743.d3b838c","authType":"d","deviceType":"","deviceId":"","command":"","commandType":"g","qos":0,"name":"","x":260,"y":220,"wires":[["66cf837f.b0066c"]]}]
